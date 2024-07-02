@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2024-07-02T10:46:30.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LBFgMjwhR1r-nNeBjZXy" version="24.6.4" type="device">
+  <diagram name="Seite-1" id="aBoowvThRuexWT-C6ffc">
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-2" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Mitarbeiter Vermehren&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="80" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-3" value="ArbeiterAkten&lt;div&gt;Ausgeben&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="170" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-4" value="Mitarbeiter löschen" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="270" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Gehalt erhöhen&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="370" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-6" value="Gehaltsabrechung" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="720" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-7" value="Auszahlung Zusatzslohn" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="840" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-8" value="Programm starten" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="610" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-9" value="Programm beenden" style="ellipse;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="144" y="480" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-14" value="Alte Liste einfügen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-15" value="Mitarbeiter aus Datei auslesen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="610" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="380" as="sourcePoint" />
+            <mxPoint x="180" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="170" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="570" as="sourcePoint" />
+            <mxPoint x="150" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="690" as="sourcePoint" />
+            <mxPoint x="160" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="790" as="sourcePoint" />
+            <mxPoint x="160" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="910" as="sourcePoint" />
+            <mxPoint x="180" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="680" as="sourcePoint" />
+            <mxPoint x="370" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-38" value="Include 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ViAuxhmLdk1FqGOqCp0S-33">
+          <mxGeometry x="-0.1465" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="ViAuxhmLdk1FqGOqCp0S-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViAuxhmLdk1FqGOqCp0S-37" value="include 0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ViAuxhmLdk1FqGOqCp0S-36">
+          <mxGeometry x="-0.281" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
