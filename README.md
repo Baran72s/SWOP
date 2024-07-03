@@ -1,2 +1,2 @@
 # SWOP
-Projektwoche Java -SWE Mitglieder: Baran Sakar, Sakina Hafez
+Projektwoche Java -SWE Mitglieder: Baran Sakar
